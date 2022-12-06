@@ -13,7 +13,7 @@ from datetime import datetime as dt # pip install datetime ou pip3 install datet
 quantidade = int(input("informe a quantidade: "))  # quantidade de contatos que serão enviados a mensagem
 msg = input("informe a mensagem: ") # mensagem que será enviada
 
-contatos = ['+5583982173125']  # lista de contatos que serão enviados a mensagem
+contatos = ['+5583982173126']  # lista de contatos que serão enviados a mensagem
 
 i = 0  # contador
 while i < quantidade: # enquanto o contador for menor que a quantidade de contatos
